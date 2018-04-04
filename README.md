@@ -18,7 +18,7 @@ then
 $ npm start
 ```
 
-Then visit [http://localhost:8080/](http://localhost:3030/)
+Then visit [http://localhost:3030/](http://localhost:3030/)
 
 ## License
 
